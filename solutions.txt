@@ -1,0 +1,13 @@
+# Generalized Brocard-Ramanujan Solutions
+# Date: 2026-01-15 18:34:55
+# Search Bounds: n <= 30000, a <= 100
+# Solutions Found: 7
+# Format: n, k, a
+
+1, 2, 1
+2, 3, 1
+4, 5, 0
+4, 215, 4
+5, 11, 0
+5, 29, 1
+7, 71, 0
