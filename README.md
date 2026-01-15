@@ -4,9 +4,9 @@ This repository contains the computational search algorithms and visualization t
 
 **Perfect Squares from Sums of Consecutive Factorials: An Exceptional Solution in a Generalized Brocard-Ramanujan Family**
 
-### Pre-print (Zenodo): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17137045.svg)](https://doi.org/10.5281/zenodo.17137045)
-* **DOI** - 10.5281/zenodo.17137045
-* **URL** - https://doi.org/10.5281/zenodo.17137045
+### Pre-print (Zenodo): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17137045.svg)](https://doi.org/10.5281/zenodo.18262068)
+* **DOI** - 10.5281/zenodo.18262068
+* **URL** - https://doi.org/10.5281/zenodo.18262068
 
 ## Abstract
 The classical Brocard-Ramanujan problem, $n!+1=k^{2}$, is a long-standing open problem in number theory. This work explores the generalized Diophantine equation $\sum_{i=0}^{a}(n+i)!+1=k^{2}$.
@@ -71,6 +71,18 @@ python search.py --max_n 50000 --max_a 20
 
 If you use this work, please cite the paper using the Zenodo archive.
 
+@misc{naladiga_venkat_2026_18262068,
+  author       = {Naladiga Venkat, Arvind},
+  title        = {Perfect Squares from Sums of Consecutive
+                   Factorials: Discovery of an Exceptional Solution
+                   to a Generalized Brocard-Ramanujan Problem
+                  },
+  month        = jan,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18262068},
+  url          = {https://doi.org/10.5281/zenodo.18262068},
+}
 
 ---
 
