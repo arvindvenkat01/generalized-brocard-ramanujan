@@ -21,10 +21,11 @@ The paper reports the discovery of a remarkable new solution, $(n,k,a)=(4,215,4)
 
 ## Repository Contents
 - `search.py` : The main script. Performs the search and automatically generates the plot.
-- `solutions.txt` : The output dataset containing all found solutions and metadata.
+- `solutions.txt` : The structured dataset containing all found solutions.
+- `console_output_search.txt` : Raw terminal logs from the $n=30,000$ run, verifying performance and results.
 - `magnitude_curve.pdf` : The generated figure used in the paper.
 - `README.md` : This documentation file.
-- `requirements.txt` : Dependencies.
+- `requirements.txt` : Python dependencies.
 
 ## Requirements
 - **Python 3.8+**
