@@ -4,7 +4,7 @@ This repository contains the computational search algorithms and visualization t
 
 **Perfect Squares from Sums of Consecutive Factorials: An Exceptional Solution in a Generalized Brocard-Ramanujan Family**
 
-### Pre-print (Zenodo): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17137045.svg)](https://doi.org/10.5281/zenodo.18262068)
+### Pre-print (Zenodo): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18262068.svg)](https://doi.org/10.5281/zenodo.18262068)
 * **DOI** - 10.5281/zenodo.18262068
 * **URL** - https://doi.org/10.5281/zenodo.18262068
 
